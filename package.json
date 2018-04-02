@@ -1,0 +1,22 @@
+{
+  "name": "order_and_chaos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/greenfox1505/Order_And_Chaos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/greenfox1505/Order_And_Chaos/issues"
+  },
+  "homepage": "https://github.com/greenfox1505/Order_And_Chaos#readme",
+  "dependencies": {
+    "uuid": "^3.2.1"
+  }
+}
